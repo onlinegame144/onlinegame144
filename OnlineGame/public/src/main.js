@@ -5,7 +5,7 @@
   new imageSet("tilesets", "map", 8, 501);
   new rawMap("maps", "map");
   
-  client.init("//77.250.48.49:3000");
+  client.init("removed the ip :P, ill add you on discord btw");
   //new player(client.socket.id, true);
 }
 function step() {
